@@ -1,0 +1,14 @@
+package ex_02_Jav_Basics;
+
+public class Lab007_String
+{
+    static void main(String[] args) {
+        String first_Name = "Amit";
+        String last_name = "Agrwal";
+        int a = 5;
+        int b = 7;
+        System.out.println(first_Name + last_name+a+b);
+        System.out.println(a+b+first_Name+last_name);
+        System.out.println(first_Name+last_name+(a+b));
+    }
+}
