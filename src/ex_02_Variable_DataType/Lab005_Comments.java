@@ -1,4 +1,4 @@
-package ex_02_Jav_Basics;
+package ex_02_Variable_DataType;
 
 public class Lab005_Comments
 
