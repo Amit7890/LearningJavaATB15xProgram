@@ -1,6 +1,6 @@
 package ex_05_Ternary_Operator;
 
-public class Lab0063_Max_Of_Three_number
+public class Lab0064_Max_Of_Three_number
 {
     static void main(String[] args) {
 //        int a =Integer.parseInt(args[0]);
