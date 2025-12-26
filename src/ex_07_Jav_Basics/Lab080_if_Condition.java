@@ -14,7 +14,7 @@ public class Lab080_if_Condition
         }
         else
         {
-            System.out.println("Hello");
+            System.out.println("H");
         }
     }
 }
